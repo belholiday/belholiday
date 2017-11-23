@@ -1,0 +1,14 @@
+{
+  "name": "belholiday/belholiday",
+  "type": "drupal-module",
+  "description": "Belarus holiday website",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/belholiday",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/belholiday",
+    "source": "http://cgit.drupalcode.org/belholiday"
+  },
+  "require": { }
+}
